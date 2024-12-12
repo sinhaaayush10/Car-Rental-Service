@@ -1,4 +1,4 @@
-# Car Rental System 
+# Car Rental Service
 
 A simple Car Rental System implemented in Java that allows users to rent cars, manage bookings, and handle customer data efficiently. This project is designed for understanding core Java concepts, object-oriented programming (OOP), and basic file handling.
 
